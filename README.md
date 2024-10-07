@@ -1,5 +1,5 @@
 # Generative AI Chatbot using Images
-- Himanshu Khichar
+By: Himanshu Khichar
 
 Visual Question Answering System using ViT, GPT, BERT, CLIP (LLMs/VLMs)
 
